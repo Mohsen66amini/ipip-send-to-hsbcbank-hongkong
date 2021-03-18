@@ -1,0 +1,338 @@
+
+=========================================== VIA SPECIAL IP TRANSFER ===========================================
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>>>BARCLAYS BANK PLC.
+>>>VIA SPECIAL IP/IP FUND TRANSFER
+>>>DATE:6:17 PM 3/17/2021
+>>>TRANSFER CODE: 26539087942154210879473652958653
+>>>TRANSACTION CODE: D508832914218750954215
+>>>AGREEMENT NUMBER: S76P103A19-1009/2020-700T-01
+>>>FROM: BARCLAYS BANK PLC. 
+>>>TO: HSBC HONG KONG.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>>BARC//IP//BARC: SERVER…
+>>1://ns2.barcap.com ://ip2 name= ip_banking2
+>>2://ns3.barcap.com ://ip3 name= ip_banking3
+>>3://ns7.barcap.com ://ip7 name= ip_banking7 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+====================================== IP SPECIAL TRANSFER SWIFT MESSAGE =====================================
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>>661:/ SENDER/ BANK NAME: BARCLAYS BANK PLC.
+>>663:/ SENDER/ BANK ADDRESS: 58 HIGH STREET NORTH, EAST HAM, LONDON, E6 2HW, UNITED KINGDOM.
+>>665:/ SENDER/ BANK SWIFT OR BIC CODE: BARCGB22XXX
+>>673:/ SENDER/ ACCOUNT NUMBER: 58708255
+>>801:/ SENDER/ ACCOUNT HOLDER COMPANY NAME: DEBIT Trading Ltd
+>>803:/ SENDER/ ACCOUNT HOLDER COMPANY INTL. REG. NO.: 820151IBCI2018
+>>805:/ SENDER/ ACCOUNT HOLDER REPRESENTED BY: Mrs. MARINA SHIN
+>>807:/ SENDER/ ACCOUNT HOLDER PASSPORT NO.: AA6555552
+>>809:/ SENDER/ ACCOUNT HOLDER PASSPORT DATE OF ISSUE: 29/08/2014
+>>811:/ SENDER/ ACCOUNT HOLDER PASSPORT DATE OF EXPIRY: 28/08/2024
+>>667:/ SENDER/ SERVER GLOBAL ID: AS44054
+>>669:/ SENDER/ SERVER GLOBAL IP: 157.83.96.0/24 / https://www.barclays.co.uk/
+>>671:/ SENDER/ IDENTITYCODE: 86KBARCGB00XXX
+>>675:/ SENDER/ CURRENCY: EURO
+>>679:/ SENDER/ SORT CODE: 20 67 90
+>>681:/ SENDER/ CREDIT INSTATE: BARCLAYS
+>>683:/ SENDER/ CLIENT NR: BARCDEUT682630
+>>685:/ SENDER/ WTS SERVER: 103182
+>>687:/ SENDER/ LOGON DOMAIN: BARCLAYS.CO.UK
+>>689:/ SENDER/ LOGON SERVER: S0200265-S020005664
+>>691:/ SENDER/ FARM NAME: FARM 42
+>>693:/ SENDER/ USER NAME: FG7 709
+>>695:/ SENDER/ USER ID: FGN465
+>>697:/ SENDER/ UTR: GH54512
+>>699:/ SENDER/ AMOUNT: 5,000,000,000,000.00 EURO
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+========================================== RECEIVER INFORMATION ============================================
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>>441:/ RECEIVER/ BANK NAME: HSBC-THE HONG KONG 
+>>443:/ RECEIVER/ BANK ADDRESS: 1 QUEEN'S ROAD CENTRAL, CENTRAL HONG KONG ISLAND, HONG KONG
+>>449:/ RECEIVER/ BANK SWIFT OR BIC CODE: HSBCHKHHHKH
+>>445:/ RECEIVER/ ACCOUNT NAME:AVANTULO. S. A
+>>447:/ RECEIVER/ ACCOUNTNUMBER: 634-296685-838
+>>481:/ RECEIVER/ COMMON ACCOUNT NUMBER: 38647771298
+>>451:/ RECEIVER/ SORT CODE: 5429.1725.22.054
+>>453:/ RECEIVER/ PASSPORT NO.: ED1628629
+>>455:/ RECEIVER/ DATE OF ISSUE: 17 MAY 2018
+>>457:/ RECEIVER/ DATE OF EXPIRY: 16 MAY 2028
+>>459:/ RECEIVER/ REPRESENTED BY: DEHUA ZHANG (CEO)
+>>461:/ RECEIVER/ COUNTRY ISSUE: CHINA
+>>463:/ RECEIVER/ BANK OFFICER NAME: MR. MAN HOUT KIT (GM-WEALTH MANAGEMENT )
+>>465:/ RECEIVER/ BANK OFFICER TELEPHONE:+852 2121111
+>>467:/ RECEIVER/ TRANSACTION CODE: HSBC392614HK
+>>469:/ RECEIVER/ RECEIVING SERVER IP: 203.112.92.104
+>>471:/ RECEIVER/ RECEIVING SERVER ID: HDAI-AP/AS01134
+>>473:/ RECEIVER/ GLOBAL SERVER IP: 203.112.92.104
+>>475:/ RECEIVER/ GLOBAL SERVER ID: HDAI-AP/AS01134
+>>479:/ RECEIVER/ TRANSACTION SERVER IP: HTTP://WWW.HSBC.COM.HK/1/2
+>>483:/ RECEIVER/ IMAD: 38647771298
+>>485:/ RECEIVER/ LOGIN SERVER DOMAIN: HSBC-CH-13205
+>>487:/ RECEIVER/ LINK: HTTPS://WWW.HSBC.CO.HK
+>>489:/ RECEIVER/ AMOUNT: 5,000,000,000,000.00 EURO
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+====================================== END OF TRANSMITTING AND CODES =======================================
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+// SENDER AMOUNT: 5,000,000,000,000.00 EURO
+// TRANSMITTING BANK: BARCLAYS BANK PLC.
+// BANK ADDRESS: 58 HIGH STREET NORTH, EAST HAM, LONDON, E6 2HW, UNITED KINGDOM.
+// SWIFT CODE: BARCGB22XXX
+// FED CODE: V2653988X5874B2633521868451
+// EUROCLEAR CODE: X806653265387475142Z45155
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+============================================= ATTACHED MESSAGE =============================================
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+WE, BARCLAYS BANK PLC LOCATED AT 58 HIGH STREET NORTH, EAST HAM, LONDON, E6 2HW, UNITED KINGDOM WITH FULL BANK
+RESPONSIBILITY HERE BY PRESENT OUR UNCONDITIONAL, IRREVOCABLE, ASSIGNABLE, TRANSFERABLE, BACKED STANDING/
+TRANSFER VIA IP SPECIAL SWIFT WITH THE MENTIONED INFORMATIONS IN THIS SHOT, HEREBY CONFIRM THAT THESE FUNDS ARE 
+CLEAN AND CLEAR OF ANY LEGAL ISSUE. WE ALLOWS MANUAL DOWNLOAD OF TRANSFERED FUNDS IN A CASE OF 
+ENCOMPATIBILITY OF DIFFERENT BANKING SOFTWARE VERSIONS.6:33 PM 3/17/2021
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+========================================= END OF CODE TRANSMISSION =========================================
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+01. IDENTITY CODE: 635322687548721432
+02. INTERBANK BLOCKING CODE: 3966836253214175410784
+03. SORT CODE: 9006850
+04. RELEASE CODE: #################################
+05. ACCESS CODE: BARC537-86564753776098764324567899
+06. TRANSACTION CODE: D508832914218750954215
+07. SETTLEMENT TRANSACTION CODE: 36263590887328541542
+08. FINAL BLOCKING CODE: 2855D2688362416980075414
+09. FINAL CODE: ###############################
+10. TRANSFER CODE: 26539087942154210879473652958653
+11. SOURCE TRANSACTION ID: 1328542107894325682143586924
+12. WTS SERVER: 50208696
+13. BONDING KEY: 25336248076942172451074
+14. USER NAME: 704DRD8
+15. UTR CODE: GH5451
+16. TERMINAL ID: AS86990D805542
+17. DOWNLOADING CODE: ##-#####-######-#####-#####-#####
+18. RECEIVING CODE: BGDNJ-324567674-JHFDFSAN-75444234
+19. ACTIVATION CODE: D854359H2094721543895124184
+20. BIS TRANSACTION: 5328097508431209583625341758
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+================================================ BANK OFFICER ===============================================
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>>>PIN: BARC5435
+>>>SSN: 86574
+>>>ZIP CODE: 2234
+>>>SIC CODE: 22341
+>>>DIRECTOR ID: 17011
+>>>STEUR ID: 9863
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+=============================================== ENDING TRANSFER ============================================
+********************************** VIA SPECIAL IP TRANSFER *******************************
+--------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
+>>>BARCLAYS BANK PLC.
+>>>VIA SPECIAL IP/IP FUND TRANSFER
+>>>DATE:6:36 PM 3/17/2021
+>>>TRANSFER CODE: 26539087942154210879473652958653
+>>>TRANSACTION CODE: D508832914218750954215
+>>>AGREEMENT NUMBER: S76P103A19-1009/2020-700T-01
+>>>FROM: BARCLAYS BANK PLC.
+>>>TO: HSBC HONG KONG.
+--------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
+>>BARC//IP//BARC: SERVER…
+>>1://ns2.barcap.com ://ip2 name= ip_banking2
+>>2://ns3.barcap.com ://ip3 name= ip_banking3
+>>3://ns7.barcap.com ://ip7 name= ip_banking7
+--------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------- IP SPECIAL TRANSFER SWIFT MESSAGE -------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
+>>661:/ SENDER/ BANK NAME: BARCLAYS BANK PLC.
+>>663:/ SENDER/ BANK ADDRESS: 58 HIGH STREET NORTH, EAST HAM, LONDON, E6 2HW, UNITED KINGDOM.
+>>665:/ SENDER/ BANK SWIFT OR BIC CODE: BARCGB22XXX
+>>673:/ SENDER/ ACCOUNT NUMBER: 58708255
+>>801:/ SENDER/ ACCOUNT HOLDER COMPANY NAME: DEBIT Trading Ltd
+>>803:/ SENDER/ ACCOUNT HOLDER COMPANY INTL. REG. NO.: 820151IBCI2018
+>>805:/ SENDER/ ACCOUNT HOLDER REPRESENTED BY: Mrs. MARINA SHIN
+>>807:/ SENDER/ ACCOUNT HOLDER PASSPORT NO.: AA6555552
+>>809:/ SENDER/ ACCOUNT HOLDER PASSPORT DATE OF ISSUE: 29/08/2014
+>>811:/ SENDER/ ACCOUNT HOLDER PASSPORT DATE OF EXPIRY: 28/08/2024
+>>667:/ SENDER/ SERVER GLOBAL ID: AS44054
+>>669:/ SENDER/ SERVER GLOBAL IP: 157.83.96.0/24 / https://www.barclays.co.uk/
+>>671:/ SENDER/ IDENTITYCODE: 86KBARCGB00XXX
+>>675:/ SENDER/ CURRENCY: EURO
+>>679:/ SENDER/ SORT CODE: 20 67 90
+>>681:/ SENDER/ CREDIT INSTATE: BARCLAYS
+>>683:/ SENDER/ CLIENT NR: BARCDEUT682630
+>>685:/ SENDER/ WTS SERVER: 103182
+>>687:/ SENDER/ LOGON DOMAIN: BARCLAYS.CO.UK
+>>689:/ SENDER/ LOGON SERVER: S0200265-S020005664
+>>691:/ SENDER/ FARM NAME: FARM 42
+>>693:/ SENDER/ USER NAME: FG7 709
+>>695:/ SENDER/ USER ID: FGN465
+>>697:/ SENDER/ UTR: GH54512
+>>699:/ SENDER/ AMOUNT: 5,000,000,000,000.00 EURO
+--------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------- RECEIVER INFORMATION ---------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
+>>441:/ RECEIVER/ BANK NAME: HSBC-THE HONG KONG 
+>>443:/ RECEIVER/ BANK ADDRESS: 1 QUEEN'S ROAD CENTRAL, CENTRAL HONG KONG ISLAND, HONG KONG
+>>449:/ RECEIVER/ BANK SWIFT OR BIC CODE: HSBCHKHHHKH
+>>445:/ RECEIVER/ ACCOUNT NAME:AVANTULO. S. A
+>>447:/ RECEIVER/ ACCOUNTNUMBER: 634-296685-838
+>>481:/ RECEIVER/ COMMON ACCOUNT NUMBER: 38647771298
+>>451:/ RECEIVER/ SORT CODE: 5429.1725.22.054
+>>453:/ RECEIVER/ PASSPORT NO.: ED1628629
+>>455:/ RECEIVER/ DATE OF ISSUE: 17 MAY 2018
+>>457:/ RECEIVER/ DATE OF EXPIRY: 16 MAY 2028
+>>459:/ RECEIVER/ REPRESENTED BY: DEHUA ZHANG (CEO)
+>>461:/ RECEIVER/ COUNTRY ISSUE: CHINA
+>>463:/ RECEIVER/ BANK OFFICER NAME: MR. MAN HOUT KIT (GM-WEALTH MANAGEMENT )
+>>465:/ RECEIVER/ BANK OFFICER TELEPHONE:+852 2121111
+>>467:/ RECEIVER/ TRANSACTION CODE: HSBC392614HK
+>>469:/ RECEIVER/ RECEIVING SERVER IP: 203.112.92.104
+>>471:/ RECEIVER/ RECEIVING SERVER ID: HDAI-AP/AS01134
+>>473:/ RECEIVER/ GLOBAL SERVER IP: 203.112.92.104
+>>475:/ RECEIVER/ GLOBAL SERVER ID: HDAI-AP/AS01134
+>>479:/ RECEIVER/ TRANSACTION SERVER IP: HTTP://WWW.HSBC.COM.HK/1/2
+>>483:/ RECEIVER/ IMAD: 38647771298
+>>485:/ RECEIVER/ LOGIN SERVER DOMAIN: HSBC-CH-13205
+>>487:/ RECEIVER/ LINK: HTTPS://WWW.HSBC.CO.HK
+>>489:/ RECEIVER/ AMOUNT: 5,000,000,000,000.00 EURO
+--------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------- END OF TRANSMITTING AND CODES ---------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
+// SENDER AMOUNT:5,000,000,000,000.00 EURO
+// TRANSMITTING BANK: BARCLAYS BANK PLC.
+// BANK ADDRESS: 58 HIGH STREET NORTH, EAST HAM, LONDON, E6 2HW, UNITED KINGDOM.
+// SWIFT CODE: BARCGB22XXX
+// FED CODE: V2653988X5874B2633521868451
+// EUROCLEAR CODE: X806653265387475142Z45155
+--------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------- ATTACHED MESSAGE ---------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
+WE, BARCLAYS BANK PLC LOCATED AT 58 HIGH STREET NORTH, EAST HAM, LONDON, E6 2HW, UNITED 
+KINGDOM WITH FULL BANK RESPONSIBILITY HERE BY PRESENT OUR UNCONDITIONAL, IRREVOCABLE, 
+ASSIGNABLE, TRANSFERABLE, BACKED STANDING/TRANSFER VIA IP SPECIAL SWIFT WITH THE MENTIONED 
+INFORMATIONS IN THIS SHOT, HEREBY CONFIRM THAT THESE FUNDS ARE CLEAN AND CLEAR OF ANY LEGAL 
+ISSUE. WE ALLOWS MANUAL DOWNLOAD OF TRANSFERED FUNDS IN A CASE OF ENCOMPATIBILITY OF 
+DIFFERENT BANKING SOFTWARE VERSIONS.6:39 PM 3/17/2021
+--------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------- END OF CODE TRANSMISSION -------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
+01. IDENTITY CODE: 635322687548721432
+02. INTERBANK BLOCKING CODE: 3966836253214175410784
+03. SORT CODE: 9006850
+04. RELEASE CODE: #################################
+05. ACCESS CODE: BARC537-8656475377609876432456789906. TRANSACTION CODE: D508832914218750954215
+07. SETTLEMENT TRANSACTION CODE: 36263590887328541542
+08. FINAL BLOCKING CODE: 2855D2688362416980075414
+09. FINAL CODE: ###############################
+10. TRANSFER CODE: 26539087942154210879473652958653
+11. SOURCE TRANSACTION ID: 1328542107894325682143586924
+12. WTS SERVER: 50208696
+13. BONDING KEY: 25336248076942172451074
+14. USER NAME: 704DRD8
+15. UTR CODE: GH5451
+16. TERMINAL ID: AS86990D805542
+17. DOWNLOADING CODE: ##-#####-######-#####-#####-#####
+18. RECEIVING CODE: BGDNJ-324567674-JHFDFSAN-75444234
+19. ACTIVATION CODE: D854359H2094721543895124184
+20. BIS TRANSACTION: 7328097508431209583625341758
+--------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------- BANK OFFICER ---------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
+>>>PIN: BARC5435
+>>>SSN: 86574
+>>>ZIP CODE: 2234
+>>>SIC CODE: 22341
+>>>DIRECTOR ID: 17011
+>>>STEUR ID: 9863
+--------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------
+*******************************************************************************************************************
+--------------------------------- IP SPECIAL TRANSFER SWIFT MESSAGE -----------------------------------
+>>>BARCLAYS BANK PLC.
+>>>VIA SPECIAL IP/IP FUND TRANSFER
+>>>DATE: 6:40 PM 3/17/2021
+>>>TRANSFER CODE: 26539087942154210879473652958653
+>>>TRANSACTION CODE: D508832914218750954215
+>>>AGREEMENT NUMBER: S76P103A19-1009/2020-700T-01
+>>>FROM: BARCLAYS BANK PLC.
+>>>TO: HSBC HONG KONG.
+---------------------------------------------------------------------------------------------------------------------------------------
+>>BARC//IP//BARC: SERVER…
+>>1://ns2.barcap.com ://ip2 name= ip_banking2
+>>2://ns3.barcap.com ://ip3 name= ip_banking3
+>>3://ns7.barcap.com ://ip7 name= ip_banking7
+---------------------------------------------------------------------------------------------------------------------------------------
+>>661:/ SENDER/ BANK NAME: BARCLAYS BANK PLC.
+>>663:/ SENDER/ BANK ADDRESS: 58 HIGH STREET NORTH, EAST HAM, LONDON, E6 2HW, UNITED KINGDOM.
+>>665:/ SENDER/ BANK SWIFT OR BIC CODE: BARCGB22XXX
+>>673:/ SENDER/ ACCOUNT NUMBER: 58708255
+>>801:/ SENDER/ ACCOUNT HOLDER COMPANY NAME: DEBIT Trading Ltd
+>>803:/ SENDER/ ACCOUNT HOLDER COMPANY INTL. REG. NO.: 820151IBCI2018
+>>805:/ SENDER/ ACCOUNT HOLDER REPRESENTED BY: Mrs. MARINA SHIN
+>>807:/ SENDER/ ACCOUNT HOLDER PASSPORT NO.: AA6555552
+>>809:/ SENDER/ ACCOUNT HOLDER PASSPORT DATE OF ISSUE: 29/08/2014
+>>811:/ SENDER/ ACCOUNT HOLDER PASSPORT DATE OF EXPIRY: 28/08/2024
+>>667:/ SENDER/ SERVER GLOBAL ID: AS44054
+>>669:/ SENDER/ SERVER GLOBAL IP: 157.83.96.0/24 / https://www.barclays.co.uk/
+>>671:/ SENDER/ IDENTITYCODE: 86KBARCGB00XXX
+>>675:/ SENDER/ CURRENCY: EURO
+>>679:/ SENDER/ SORT CODE: 20 67 90
+>>681:/ SENDER/ CREDIT INSTATE: BARCLAYS
+>>683:/ SENDER/ CLIENT NR: BARCDEUT682630
+>>685:/ SENDER/ WTS SERVER: 103182
+>>687:/ SENDER/ LOGON DOMAIN: BARCLAYS.CO.UK
+>>689:/ SENDER/ LOGON SERVER: S0200265-S020005664
+>>691:/ SENDER/ FARM NAME: FARM 42
+>>693:/ SENDER/ USER NAME: FG7 709
+>>695:/ SENDER/ USER ID: FGN465
+>>697:/ SENDER/ UTR: GH54512
+>>699:/ SENDER/ AMOUNT:5,000,000,000,000.00 EURO
+---------------------------------------------------------------------------------------------------------------------------------------
+>>441:/ RECEIVER/ BANK NAME: HSBC-THE HONG KONG 
+>>443:/ RECEIVER/ BANK ADDRESS: 1 QUEEN'S ROAD CENTRAL, CENTRAL HONG KONG ISLAND, HONG KONG
+>>449:/ RECEIVER/ BANK SWIFT OR BIC CODE: HSBCHKHHHKH
+>>445:/ RECEIVER/ ACCOUNT NAME:AVANTULO. S. A
+>>447:/ RECEIVER/ ACCOUNTNUMBER: 634-296685-838
+>>481:/ RECEIVER/ COMMON ACCOUNT NUMBER: 38647771298
+>>451:/ RECEIVER/ SORT CODE: 5429.1725.22.054
+>>453:/ RECEIVER/ PASSPORT NO.: ED1628629
+>>455:/ RECEIVER/ DATE OF ISSUE: 17 MAY 2018
+>>457:/ RECEIVER/ DATE OF EXPIRY: 16 MAY 2028
+>>459:/ RECEIVER/ REPRESENTED BY: DEHUA ZHANG (CEO)
+>>461:/ RECEIVER/ COUNTRY ISSUE: CHINA
+>>463:/ RECEIVER/ BANK OFFICER NAME: MR. MAN HOUT KIT (GM-WEALTH MANAGEMENT )
+>>465:/ RECEIVER/ BANK OFFICER TELEPHONE:+852 2121111
+>>467:/ RECEIVER/ TRANSACTION CODE: HSBC392614HK
+>>469:/ RECEIVER/ RECEIVING SERVER IP: 203.112.92.104
+>>471:/ RECEIVER/ RECEIVING SERVER ID: HDAI-AP/AS01134
+>>473:/ RECEIVER/ GLOBAL SERVER IP: 203.112.92.104
+>>475:/ RECEIVER/ GLOBAL SERVER ID: HDAI-AP/AS01134
+>>479:/ RECEIVER/ TRANSACTION SERVER IP: HTTP://WWW.HSBC.COM.HK/1/2
+>>483:/ RECEIVER/ IMAD: 38647771298
+>>485:/ RECEIVER/ LOGIN SERVER DOMAIN: HSBC-CH-13205
+>>487:/ RECEIVER/ LINK: HTTPS://WWW.HSBC.CO.HK
+>>489:/ RECEIVER/ AMOUNT: 5,000,000,000,000.00 EURO
+--------------------------------------------------------------------------------------------------------------------------------------- 
+// SENDER AMOUNT: 5,000,000,000,000.00 EURO 
+// TRANSMITTING BANK: BARCLAYS BANK PLC. 
+// BANK ADDRESS: 58 HIGH STREET NORTH, EAST HAM, LONDON, E6 2HW, UNITED KINGDOM. 
+// SWIFT CODE: BARCGB22XXX 
+// FED CODE: V2653988X5874B2633521868451 
+// EUROCLEAR CODE: X806653265387475142Z45155 
+---------------------------------------------------- ATTACHED MESSAGE --------------------------------------------------- 
+WE, BARCLAYS BANK PLC LOCATED AT 58 HIGH STREET NORTH, EAST HAM, LONDON, E6 2HW, UNITED 
+KINGDOM WITH FULL BANK RESPONSIBILITY HERE BY PRESENT OUR UNCONDITIONAL, IRREVOCABLE, 
+ASSIGNABLE, TRANSFERABLE, BACKED STANDING/TRANSFER VIA IP SPECIAL SWIFT WITH THE MENTIONED 
+INFORMATIONS IN THIS SHOT, HEREBY CONFIRM THAT THESE FUNDS ARE CLEAN AND CLEAR OF ANY LEGAL 
+ISSUE. WE ALLOWS MANUAL DOWNLOAD OF TRANSFERED FUNDS IN A CASE OF ENCOMPATIBILITY OF 
+DIFFERENT BANKING SOFTWARE VERSIONS.6:42 PM 3/17/2021
+-------------------------------------------------------- BANK OFFICER --------------------------------------------------------
+>>>PIN: BARC5435 
+>>>SSN: 86574 
+>>>ZIP CODE: 2234 
+>>>SIC CODE: 22341 
+>>>DIRECTOR ID: 17011 
+>>>STEUR ID: 9863 
+--------------------------------------------------------------------------------------------------------------------------------------- 
+--------------------------------------------------------------------------------------------------------------------------------------- 
+--------------------------------------------------------------------------------------------------------------------------------------
